@@ -1,6 +1,6 @@
 # CV Automation Project
 
-cv_automation/ \n
+cv_automation/ \
 │
 ├── src/                    # Source files
 │   ├── __init__.py         # Makes src a Python package
