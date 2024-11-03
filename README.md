@@ -1,1 +1,1 @@
-# CV-Automator
+# CV Automation Project
