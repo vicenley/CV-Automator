@@ -1,5 +1,5 @@
 # CV Automation Project
-
+```
 cv_automation/ \
 │ \
 ├── src/                    # Source files \
@@ -30,3 +30,4 @@ cv_automation/ \
 ├── .gitignore              # Specifies intentionally untracked files to ignore \
 ├── requirements.txt        # Fixed project dependencies \
 └── README.md               # Project overview and general information \
+```
